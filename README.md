@@ -19,3 +19,7 @@ This will create decision stump for each feature & datapoint in folds 2..10 and 
 See [my analysis](https://docs.google.com/document/d/1PBH77j165_xkoVMOm9Dscf_z7RMGv4OM5PpaXmeXiNY/edit) for a discussion of the results.
 
 -- [PLR](http://f06mote.com)
+
+---
+
+Requires Python 2.7
